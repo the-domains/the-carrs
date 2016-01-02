@@ -1,0 +1,28 @@
+name: The Carrs
+favicon: null
+layout_spectrum: 0.9776714188046753
+typography_spectrum: 0.8328410584945232
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7572893030010164
+  lightness: 0.9811882071662694
+  saturation: 0.42133331624791026
+  rhythmicContrast: 0.15779849607497454
+purpose: []
