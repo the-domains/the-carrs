@@ -1,7 +1,7 @@
 name: The Carrs
 favicon: null
-layout_spectrum: 0.9776714188046753
-typography_spectrum: 0.8328410584945232
+layout_spectrum: 0.51516
+typography_spectrum: 0.34327
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.7572893030010164
+    - '#ffffff'
+    - '#262161'
+    - '#565658'
+    - '#adadae'
+    - '#228fce'
+  brandStrength: 0.3125
   lightness: 0.9811882071662694
-  saturation: 0.42133331624791026
+  saturation: 0.25
   rhythmicContrast: 0.15779849607497454
 purpose: []
